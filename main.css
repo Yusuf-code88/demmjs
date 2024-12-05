@@ -1,0 +1,75 @@
+.container {
+    width: 727px;
+    margin: 0 auto;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.burger-case {
+    background-color: rgb(194, 186, 186);
+    width: 500px;
+    height: 1185px;
+    box-shadow: 0px 4px 50px 0px #66708533;
+    margin-left: 227px;
+    padding: 0 40px;
+}
+
+.demm-box {
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.demm-box button {
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.ul-box ul li {
+     list-style: none;
+}
+
+.li-case li a  {
+    text-decoration: none;
+    font-size: 20px;
+    color: #122952;
+}
+
+.ul-box {
+    margin-top: 30px;
+}
+
+.ul-box ul {
+    line-height: 27px;
+}
+
+.li-box li a {
+    color: #00072DCC;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+
+.ul-case ul li {
+    list-style: none;
+}
+
+.ul-case {
+   margin-top: 10px;
+}
+
+.ul-case ul {
+   line-height: 27px;
+}
+
+.ul-case li a  {
+    text-decoration: none;
+    font-size: 20px;
+    color: #122952;
+}
